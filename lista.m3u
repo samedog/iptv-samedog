@@ -431,5 +431,7 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="UATV.cl" group-title="general",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SoloBailalo.cl" group-title="general",SoloBáilalo (480p)
+#EXTINF:-1 tvg-name="SoloBailalo.cl" group-title="general", SoloBáilalo (480p)
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="anime", ZTV Anime | CL
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
