@@ -1,204 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="13C.cl" group-title="general",13C (1080p)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-name="13E.cl" group-title="general",13 Entretención (720p)
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-name="13Festival.cl" group-title="general",13 Festival (1080p)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-name="13Humor.cl" group-title="general",13 Humor (1080p)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-name="13Kids.cl" group-title="general",13 Kids (1080p)
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-name="13P.cl" group-title="general",13 Prime (720p)
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-name="13Realities.cl" group-title="general",13 Realities (1080p)
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-name="13T.cl" group-title="general",13 Teleseries (720p)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-name="AERadioTV.cl" group-title="general",AE Radio TV (720p) [Not 24/7]
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1 tvg-name="AntofagastaTV.cl" group-title="general",Antofagasta TV (ATV) (1080p)
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="AricaTV.cl" group-title="general",Arica TV (480p) [Not 24/7]
-https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-name="AtacamaNoticias.cl" group-title="general",Atacama Noticias (720p) [Not 24/7]
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-name="AtacamaTV.cl" group-title="general",Atacama TV (Copiapó) (720p) [Not 24/7]
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-name="AysenTV.cl" group-title="general",Aysen TV (720p)
-https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 tvg-name="BuinSomosTodos.cl" group-title="general",Buin Somos Todos (720p) [Not 24/7]
-https://bst.buin.cl/0.m3u8
-#EXTINF:-1 tvg-name="CampusTV.cl" group-title="general",Campus TV (Talca) (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal9BioBioTelevision.cl" group-title="general",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
-https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal13.cl" group-title="general",Canal 13 (1080p)
-http://38.250.127.17:9800/play/a067/index.m3u8
-#EXTINF:-1 tvg-name="Canal21.cl" group-title="general",Canal 21
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal74SanAntonio.cl" group-title="general",Canal 74 San Antonio
-https://eu1.servers10.com:8081/8050/index.m3u8
-#EXTINF:-1 tvg-name="Canal74SanAntonio.cl" group-title="general",Canal 74 San Antonio
-https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
-#EXTINF:-1 tvg-name="CanalClaro.cl" group-title="general",Canal Claro (720p)
-https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
-#EXTINF:-1 tvg-name="CanalISB.cl" group-title="general",Canal ISB (Iglesia San Bernardo) (720p)
-https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CanalSCN.cl" group-title="general",Canal SCN (720p)
-https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
-#EXTINF:-1 tvg-name="CDTV.cl" group-title="general",CDTV (720p) [Not 24/7]
-http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
-#EXTINF:-1 tvg-name="ChileChannel.cl" group-title="general",Chile Channel (720p)
-https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-name="ChileVision.cl" group-title="general",ChileVision (1080p)
-http://38.250.127.17:9800/play/a05h/index.m3u8
-#EXTINF:-1 tvg-name="ChiloeRed25.cl" group-title="general",Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
-#EXTINF:-1 tvg-name="ClickTVChile.cl" group-title="general",Click TV (Coronel) (720p)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Contivision.cl" group-title="general",Contivision (720p)
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="DanceFM.cl" group-title="general",Dance FM (720p)
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 tvg-name="DecimaTV.cl" group-title="general",Décima TV (Ancud) (720p)
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="EGMChannel.cl" group-title="general",EGM Channel (480p)
-https://paneltv.online:1936/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-name="EnerGeek.cl" group-title="general",EnerGeek (720p) [Not 24/7]
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="",EnerGeek Fan
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="EnerGeekRadio.cl" group-title="general",EnerGeek Radio (1080p)
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="Girovisual.cl" group-title="general",Girovisual (720p)
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="HiperconectadosTV.cl" group-title="general",Hiperconectados TV
-https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="HolvoetTV.cl" group-title="general",Holvoet TV (Copiapó) (720p) [Not 24/7]
-https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="HuascoTelevision.cl" group-title="general",Huasco Television
-https://paneltv.online:1936/huasco/huasco/playlist.m3u8
-#EXTINF:-1 tvg-name="HuascoTelevision.cl" group-title="general",Huasco Televisión (360p)
-https://paneltv.online:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-name="ITVPatagonia.cl" group-title="general",ITV Patagonia (720p) [Not 24/7]
-https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ITVPatagonia.cl" group-title="general",ITV Patagonia (720p)
-https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanade.cl" group-title="general",Kanade (1080p)
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="LaPopularTV.cl" group-title="general",La Popular TV
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-#EXTINF:-1 tvg-name="LaRed.cl" group-title="general",La Red (720p) [Not 24/7]
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-name="Meganoticias.cl" http-referrer="https://www.meganoticias.cl/",Meganoticias (1080p)
-https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
-#EXTINF:-1 tvg-name="MTNATV.cl" group-title="general",MTNA TV
-https://live.mtna.tv/hls/mtna/mtna.m3u8
-#EXTINF:-1 tvg-name="NativaTV.cl" group-title="general",Nativa TV
-https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
-#EXTINF:-1 tvg-name="NCTV.cl" group-title="general",NCTV (1080p)
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV.cl" group-title="general",NTV
-https://panel.miplay.cl:8082/ntv/index.m3u8
-#EXTINF:-1 tvg-name="Nublevision.cl" group-title="general",Nublevision (720p)
-https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
-#EXTINF:-1 tvg-name="PichilemuTV.cl" group-title="general",Pichilemu TV (1080p)
-https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-#EXTINF:-1 tvg-name="PRIDEtvLATAM.cl@HD",PRIDEtv LATAM (1080p)
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="PRIDEtvLATAM.cl@HD",PRIDEtv LATAM (720p)
-https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
-#EXTINF:-1 tvg-name="PuconTV.cl" group-title="general",Pucón TV (1080p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="PuranoticiaTV.cl" group-title="general",Puranoticia TV (720p)
-https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-name="RadioSuyaiTV.cl@HD" http-referrer="https://radio.suyaitv.cl",Radio Suyai TV (1080p)
-#EXTVLCOPT:http-referrer=https://radio.suyaitv.cl
-https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="SantaMariaTelevision.cl" group-title="general",Santa María Televisión (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sextavision.cl" group-title="general",Sextavisión (720p)
-https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
-#EXTINF:-1 tvg-name="SoloBailalo.cl" group-title="general",SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:-1 tvg-name="SoloBailalo.cl" group-title="general",SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-name="StgoTV.cl" group-title="general",Stgo.TV
-https://panel.miplay.cl:8082/stgotv/index.m3u8
-#EXTINF:-1 tvg-name="SURTV.cl" group-title="general",SUR TV
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SuyaiTV.cl" http-referrer="https://suyaitv.cl",Suyai TV (1080p)
-#EXTVLCOPT:http-referrer=https://suyaitv.cl
-https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="T13.cl" group-title="general",T13 (720p)
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVinet.cl" group-title="general",T-Vinet (480p)
-https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Telecanal.cl" group-title="general",Telecanal (720p)
-http://45.232.210.1:8029/play/a00s/index.m3u8
-#EXTINF:-1 tvg-name="TeletrakTV.cl" group-title="general",Teletrak (720p)
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Televida.cl" group-title="general",Televida (1080p)
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Tevex.cl" group-title="general",Tevex (720p) [Not 24/7]
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-name="ThemaTelevision.cl" group-title="general",Thema Televisión (La Serena) (720p) [Not 24/7]
-https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ThemaTelevision.cl" group-title="general",Thema Televisión (La Serena) (720p) [Not 24/7]
-https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TNE.cl" group-title="general",TNE (720p) [Not 24/7]
-https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 tvg-name="TurfMovil.cl" group-title="general",Turf Movil (720p)
-https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-#EXTINF:-1 tvg-name="TVChile.cl" group-title="general",TV Chile (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-name="Canal2Quellon.cl" group-title="general",TV Quellón (1080p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVSenado.cl" group-title="general",TV Senado (360p)
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-name="TVUCT.cl" group-title="general",TV UCT (1080p)
-https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVPlus2.cl" group-title="general",TV+ 2
-https://panel.miplay.cl:8082/tvmas2/index.m3u8
-#EXTINF:-1 tvg-name="TVN3.cl" group-title="general",TVN3 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-name="TVOSanVicente.cl" http-referrer="http://www.tvosanvicente.cl/",TVO San Vicente (720p)
-#EXTVLCOPT:http-referrer=http://www.tvosanvicente.cl/
-https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
-#EXTINF:-1 tvg-name="TVR.cl" group-title="general",TVR (1080p) [Not 24/7]
-https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVR.cl" group-title="general",TVR (720p)
-https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVU.cl" group-title="general",TVU Concepción (1080p)
-https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ULosLagosTV.cl" group-title="general",U Los Lagos TV (1080p) [Not 24/7]
-http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1 tvg-name="UCVTV.cl" group-title="general",UCV TV (720p)
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="UESTV.cl" group-title="general",UESTV (720p)
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="UATV.cl" group-title="general",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="UATV.cl" group-title="general",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
-https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="UTV.cl" group-title="general",UTV (720p)
-https://v2.tustreaming.cl/utv/index.m3u8
-#EXTINF:-1 tvg-name="VClassicTV.cl" group-title="general",V Classic TV (720p)
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-name="VCOnline.cl" group-title="general",VC Online (720p)
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-name="VisionPlusTV.cl" http-referrer="https://visionplustv.cl/",Vision Plus TV (1080i)
-#EXTVLCOPT:http-referrer=https://visionplustv.cl/
-https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-#EXTINF:-1 tvg-name="VTVValledeAconcagua.cl" group-title="general",VTV Valle de Aconcagua (720p) [Not 24/7]
-https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="VTVValledeAconcagua.cl" group-title="general",VTV Valle de Aconcagua (720p) [Not 24/7]
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Wapp.cl" group-title="general",Wapp (720p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
-#EXTINF:-1 tvg-name="LatinaNetworkTV.cl" group-title="general",Latina Network TV (576i)
-https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="13 Deportes" tvg-logo="https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png" group-title="sports", 13 Deportes [CL]
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:-1 tvg-name="13 FutGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg" group-title="sports", 13 FutGO [CL]
@@ -301,22 +101,174 @@ https://wowlive.grupoz.cl/camara/live/chunklist_w1358283897_DVR.m3u8
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-name="TV Educa Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV_Educa_Chile_Logo.png" group-title="kids", TV Educa Chile [CL]
 https://mdstrm.com/live-stream-playlist-v/5e74e53f1ab4eb073b19ef34.m3u8
-#EXTINF:-1 tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" group-title="general", TVN (1) [CL]
-https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8
+#EXTINF:-1 tvg-name="13C.cl" group-title="general",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-name="13E.cl" group-title="general",13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-name="13Festival.cl" group-title="general",13 Festival (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-name="13Humor.cl" group-title="general",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-name="13Kids.cl" group-title="general",13 Kids (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-name="13P.cl" group-title="general",13 Prime (720p)
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 tvg-name="13Realities.cl" group-title="general",13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-name="13T.cl" group-title="general",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-name="AERadioTV.cl" group-title="general",AE Radio TV (720p) [Not 24/7]
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 tvg-name="AntofagastaTV.cl" group-title="general",Antofagasta TV (ATV) (1080p)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AricaTV.cl" group-title="general",Arica TV (480p) [Not 24/7]
+https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
+#EXTINF:-1 tvg-name="AtacamaNoticias.cl" group-title="general",Atacama Noticias (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-name="AtacamaTV.cl" group-title="general",Atacama TV (Copiapó) (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-name="AysenTV.cl" group-title="general",Aysen TV (720p)
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1 tvg-name="BuinSomosTodos.cl" group-title="general",Buin Somos Todos (720p) [Not 24/7]
+https://bst.buin.cl/0.m3u8
+#EXTINF:-1 tvg-name="CampusTV.cl" group-title="general",Campus TV (Talca) (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal9BioBioTelevision.cl" group-title="general",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal13.cl" group-title="general",Canal 13 (1080p)
+http://38.250.127.17:9800/play/a067/index.m3u8
+#EXTINF:-1 tvg-name="Canal21.cl" group-title="general",Canal 21
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal74SanAntonio.cl" group-title="general",Canal 74 San Antonio
+https://eu1.servers10.com:8081/8050/index.m3u8
+#EXTINF:-1 tvg-name="Canal74SanAntonio.cl" group-title="general",Canal 74 San Antonio
+https://eu1.servers10.com:8081/8050/index.m3u8
+#EXTINF:-1 tvg-name="CanalClaro.cl" group-title="general",Canal Claro (720p)
+https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
+#EXTINF:-1 tvg-name="CanalISB.cl" group-title="general",Canal ISB (Iglesia San Bernardo) (720p)
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CanalSCN.cl" group-title="general",Canal SCN (720p)
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+#EXTINF:-1 tvg-name="CDTV.cl" group-title="general",CDTV (720p) [Not 24/7]
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1 tvg-name="ChileChannel.cl" group-title="general",Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-name="ChileVision.cl" group-title="general",ChileVision (1080p)
+http://38.250.127.17:9800/play/a05h/index.m3u8
+#EXTINF:-1 tvg-name="ChiloeRed25.cl" group-title="general",Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+#EXTINF:-1 tvg-name="ClickTVChile.cl" group-title="general",Click TV (Coronel) (720p)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Contivision.cl" group-title="general",Contivision (720p)
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="DanceFM.cl" group-title="general",Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-name="DecimaTV.cl" group-title="general",Décima TV (Ancud) (720p)
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="EGMChannel.cl" group-title="general",EGM Channel (480p)
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-name="EnerGeek.cl" group-title="general",EnerGeek (720p) [Not 24/7]
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="EnerGeekRadio.cl" group-title="general",EnerGeek Radio (1080p)
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="Girovisual.cl" group-title="general",Girovisual (720p)
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="HiperconectadosTV.cl" group-title="general",Hiperconectados TV
+https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="HolvoetTV.cl" group-title="general",Holvoet TV (Copiapó) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="HuascoTelevision.cl" group-title="general",Huasco Television
+https://paneltv.online:1936/huasco/huasco/playlist.m3u8
+#EXTINF:-1 tvg-name="ITVPatagonia.cl" group-title="general",ITV Patagonia (720p) [Not 24/7]
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanade.cl" group-title="general",Kanade (1080p)
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="LaPopularTV.cl" group-title="general",La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
+#EXTINF:-1 tvg-name="LaRed.cl" group-title="general",La Red (720p) [Not 24/7]
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="MTNATV.cl" group-title="general",MTNA TV
+https://live.mtna.tv/hls/mtna/mtna.m3u8
+#EXTINF:-1 tvg-name="NativaTV.cl" group-title="general",Nativa TV
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+#EXTINF:-1 tvg-name="NCTV.cl" group-title="general",NCTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV.cl" group-title="general",NTV
+https://panel.miplay.cl:8082/ntv/index.m3u8
+#EXTINF:-1 tvg-name="Nublevision.cl" group-title="general",Nublevision (720p)
+https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
+#EXTINF:-1 tvg-name="PichilemuTV.cl" group-title="general",Pichilemu TV (1080p)
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-name="PuconTV.cl" group-title="general",Pucón TV (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PuranoticiaTV.cl" group-title="general",Puranoticia TV (720p)
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 tvg-name="SantaMariaTelevision.cl" group-title="general",Santa María Televisión (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sextavision.cl" group-title="general",Sextavisión (720p)
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-name="StgoTV.cl" group-title="general",Stgo.TV
+https://panel.miplay.cl:8082/stgotv/index.m3u8
+#EXTINF:-1 tvg-name="SURTV.cl" group-title="general",SUR TV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="T13.cl" group-title="general",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVinet.cl" group-title="general",T-Vinet (480p)
+https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Telecanal.cl" group-title="general",Telecanal (720p)
+http://45.232.210.1:8029/play/a00s/index.m3u8
+#EXTINF:-1 tvg-name="TeletrakTV.cl" group-title="general",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Televida.cl" group-title="general",Televida (1080p)
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Tevex.cl" group-title="general",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-name="TNE.cl" group-title="general",TNE (720p) [Not 24/7]
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 tvg-name="TurfMovil.cl" group-title="general",Turf Movil (720p)
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+#EXTINF:-1 tvg-name="TVChile.cl" group-title="general",TV Chile (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-name="Canal2Quellon.cl" group-title="general",TV Quellón (1080p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVSenado.cl" group-title="general",TV Senado (360p)
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-name="TVUCT.cl" group-title="general",TV UCT (1080p)
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVPlus2.cl" group-title="general",TV+ 2
+https://panel.miplay.cl:8082/tvmas2/index.m3u8
+#EXTINF:-1 tvg-name="TVN3.cl" group-title="general",TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-name="TVR.cl" group-title="general",TVR (1080p) [Not 24/7]
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVU.cl" group-title="general",TVU Concepción (1080p)
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ULosLagosTV.cl" group-title="general",U Los Lagos TV (1080p) [Not 24/7]
+http://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1 tvg-name="UCVTV.cl" group-title="general",UCV TV (720p)
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="UESTV.cl" group-title="general",UESTV (720p)
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="UTV.cl" group-title="general",UTV (720p)
+https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1 tvg-name="VClassicTV.cl" group-title="general",V Classic TV (720p)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-name="VCOnline.cl" group-title="general",VC Online (720p)
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-name="Wapp.cl" group-title="general",Wapp (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
+#EXTINF:-1 tvg-name="LatinaNetworkTV.cl" group-title="general",Latina Network TV (576i)
+https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg" group-title="general", TV Chile [CL]
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logotipo_de_Mega_%282015-2020%29.svg" group-title="general", Mega [CL]
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg" group-title="general", Canal 13 (1) [CL]
-https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8
 #EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg" group-title="general", Chilevisión [CL]
 https://marine2.miplay.cl/chvchile/index.m3u8
 #EXTINF:-1 tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg" group-title="general", La Red (1) [CL]
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="general", TV+ [CL]
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1 tvg-name="Canal 13 (Señal de Pruebas)" group-title="general", Canal 13 (Señal de Pruebas) [CL]
-https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="La Voz De Los Que Sobran" tvg-logo="https://graph.facebook.com/delosquesobran/picture?width=800&height=800" group-title="general", La Voz De Los Que Sobran (1) [CL]
 https://unlimited1-cl-isp.dps.live/lvdlqs/lvdlqs.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Holvoet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/HolvoetTV.jpg" group-title="general", Holvoet TV [CL]
@@ -377,8 +329,6 @@ https://envivo.arica.tv/hls/stream.m3u8
 https://oracle.streaminghd.cl/rtctelevision/rtctelevision/playlist.m3u8
 #EXTINF:-1 tvg-name="LRP Television" tvg-logo="https://graph.facebook.com/LRPtelevision/picture?width=800&height=800" group-title="general", LRP Television (1) [CL]
 https://v2.tustreaming.cl/lrp/index.m3u8
-#EXTINF:-1 tvg-name="Huasco Television" tvg-logo="https://www.huascotelevisionstreaming.cl/images/logo_superior.png" group-title="general", Huasco Television (1) [CL]
-https://paneltv.online:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-name="Mi Radio TV" tvg-logo="https://www.miradiols.cl/wp-content/uploads/2018/02/logo-ok-footer.png" group-title="general", Mi Radio TV [CL]
 https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://radioamerica.cl/wp-content/uploads/2025/07/logo-america.png" group-title="general", America TV [CL]
@@ -409,8 +359,6 @@ https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-name="ISB San Bernardo" tvg-logo="https://www.canalisb.cl/imagenes/logo_isb.png" group-title="general", ISB San Bernardo (1) [CL]
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ISB San Bernardo" tvg-logo="https://www.canalisb.cl/imagenes/logo_isb.png" group-title="general", ISB San Bernardo (2) [CL]
-https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO San Vicente" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png" group-title="general", TVO San Vicente (1) [CL]
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-name="Sextavision" tvg-logo="https://sextavision.cl/wp-content/uploads/2024/06/cropped-ojo-SV-32x32.png" group-title="general", Sextavision (1) [CL]
@@ -461,14 +409,10 @@ https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
 https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-name="Iquique TV" tvg-logo="https://graph.facebook.com/iquiquetvhd/picture?width=800&height=800" group-title="general", Iquique TV [CL]
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
-#EXTINF:-1 tvg-name="Wapp TV" tvg-logo="https://graph.facebook.com/wapptv.cl/picture?width=800&height=800" group-title="general", Wapp TV [CL]
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg" group-title="entertainment", 13 Entretención (1) [CL]
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg" group-title="entertainment", 13 Realities (1) [CL]
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-name="13 Teleseries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/13teleseries.svg" group-title="entertainment", 13 Teleseries (1) [CL]
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-name="Stgo.TV" tvg-logo="https://graph.facebook.com/stgotvchile/picture?width=800&height=800" group-title="general", Stgo.TV [CL]
+https://stv4.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-name="Puranoticia TV" tvg-logo="https://graph.facebook.com/puranoticiachile/picture?width=800&height=800" group-title="general", Puranoticia TV (1) [CL]
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-name="13 Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg" group-title="entertainment", 13 Pop (1) [CL]
 https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8
 #EXTINF:-1 tvg-name="Gogoplaytv" tvg-logo="https://graph.facebook.com/migogoplay/picture?width=800&height=800" group-title="entertainment", Gogoplaytv [BO]
@@ -481,7 +425,11 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-name="Canal País" tvg-logo="https://graph.facebook.com/CanalPais/picture?width=800&height=800" group-title="Business", Canal País (1) [CL]
 https://v4.tustreaming.cl/canalpais/index.m3u8
-#EXTINF:-1 tvg-name="Stgo.TV" tvg-logo="https://graph.facebook.com/stgotvchile/picture?width=800&height=800" group-title="general", Stgo.TV [CL]
-https://stv4.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-name="Puranoticia TV" tvg-logo="https://graph.facebook.com/puranoticiachile/picture?width=800&height=800" group-title="general", Puranoticia TV (1) [CL]
-https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 tvg-name="VTVValledeAconcagua.cl" group-title="general",VTV Valle de Aconcagua (720p) [Not 24/7]
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ThemaTelevision.cl" group-title="general",Thema Televisión (La Serena) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="UATV.cl" group-title="general",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="SoloBailalo.cl" group-title="general",SoloBáilalo (480p)
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
