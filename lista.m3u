@@ -171,6 +171,10 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="EnerGeekRadio.cl" group-title="general",EnerGeek Radio (1080p)
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="Kanade.cl" group-title="general",Kanade (1080p)
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="anime", ZTV Anime ✪ | CL
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Girovisual.cl" group-title="general",Girovisual (720p)
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HiperconectadosTV.cl" group-title="general",Hiperconectados TV
@@ -181,8 +185,6 @@ https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 https://paneltv.online:1936/huasco/huasco/playlist.m3u8
 #EXTINF:-1 tvg-name="ITVPatagonia.cl" group-title="general",ITV Patagonia (720p) [Not 24/7]
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanade.cl" group-title="general",Kanade (1080p)
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="LaPopularTV.cl" group-title="general",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-name="LaRed.cl" group-title="general",La Red (720p) [Not 24/7]
@@ -432,6 +434,4 @@ https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="UATV.cl" group-title="general",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SoloBailalo.cl" group-title="general", SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8 
-#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="anime", ZTV Anime ✪ | CL
-https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
